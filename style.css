@@ -96,7 +96,11 @@ aside a:hover{
     color:navy;
 }
    
-
+.top{
+	
+.middle{
+	
+.bottom{
   
 footer {
   grid-area:footer;
@@ -187,9 +191,9 @@ footer p {
   grid-template-areas:
     "header header"
     "nav main"
-    "article top article top"  
-    "article middle article middle"
-    "article bottom article bottom"
+    "top top"  
+    "middle middle"
+    "bottom bottom"
     "footer footer";
     }
 
@@ -228,9 +232,9 @@ footer p {
   margin:1%;
   grid-template-areas:
     "header header header"
-    "nav main article "top"
-    "nav main article middle" 
-    "nav main article bottom"  
+    "nav main top"
+    "nav main middle" 
+    "nav main bottom"  
     "footer footer";
     }
 
