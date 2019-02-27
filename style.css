@@ -97,15 +97,15 @@ aside a:hover{
 }
    
 .top{
-	
+   grid-area: top;
 }
 	
 .middle{
-	
+   grid-area: middle;
 }
 	
 .bottom{
-	
+   grid-area: bottom;
 }
   
 footer {
