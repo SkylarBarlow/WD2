@@ -233,7 +233,7 @@ footer p {
     }
 .container2 { /*for blog.html*/
   display: grid;
-  grid-template-columns: auto 1Fr;
+  grid-template-columns: auto 1Fr 1.5Fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
