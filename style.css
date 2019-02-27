@@ -187,8 +187,10 @@ footer p {
   grid-template-areas:
     "header header"
     "nav main"
-    "article" "article"
-    "footer" "footer";
+    "article top article top"  
+    "article middle article middle"
+    "article bottom article bottom"
+    "footer footer";
     }
 
 /* Below will change from hamburger menu to side navigation*/
@@ -219,6 +221,20 @@ footer p {
     "nav main aside"
     "footer footer footer";
     }
-	
+.container2 { /*for blog.html*/
+  display: grid;
+  grid-template-columns: auto 1Fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header header"
+    "nav main article "top"
+    "nav main article middle" 
+    "nav main article bottom"  
+    "footer footer";
+    }
+
 
 	}
+
+
