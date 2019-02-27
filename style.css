@@ -178,7 +178,18 @@ footer p {
     "aside aside"
     "footer footer";
     }
-
+	
+.container2 { /*for blog.html*/
+  display: grid;
+  grid-template-columns: auto 1Fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "article" "article"
+    "footer" "footer";
+    }
 
 /* Below will change from hamburger menu to side navigation*/
   
