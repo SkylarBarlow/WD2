@@ -98,14 +98,17 @@ aside a:hover{
    
 .top{
    grid-area: top;
+   background:rgba(0,0,0,.2);
 }
 	
 .middle{
    grid-area: middle;
+   background:rgba(0,0,0,.2);
 }
 	
 .bottom{
-   grid-area: bottom;
+   grid-area: bottom; 
+   background:rgba(0,0,0,.2);
 }
   
 footer {
