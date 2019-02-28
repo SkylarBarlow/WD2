@@ -96,6 +96,12 @@ aside a:hover{
     color:navy;
 }
    
+article{
+    color:navy;
+   background:rgba(0,0,0,.2);
+}
+
+
 .top{
    grid-area: top;
    background:rgba(0,0,0,.2)
