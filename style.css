@@ -98,13 +98,11 @@ aside a:hover{
    
 article h2{
     color:navy;
-    background:rgba(0,0,0,.2);
 
 }
 
 article p{
     color:white;
-     background:rgba(0,0,0,.2);
 
 
 }
@@ -112,17 +110,23 @@ article p{
 .top{
    grid-area: top;
    color:white;
+     background:rgba(0,0,0,.2);
+
    
 }
 	
 .middle{
    grid-area: middle;
   color:white;
+    background:rgba(0,0,0,.2);
+
 }
 	
 .bottom{
    grid-area: bottom; 
    color:white;
+     background:rgba(0,0,0,.2);
+
 }
   
 footer {
