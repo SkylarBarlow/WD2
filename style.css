@@ -98,29 +98,30 @@ aside a:hover{
    
 article h2{
     color:navy;
+    background:rgba(0,0,0,.2);
+
 }
 
 article p{
     color:white;
+     background:rgba(0,0,0,.2);
+
 
 }
 
 .top{
    grid-area: top;
-   background:rgba(0,0,0,.2)
    color:white;
    
 }
 	
 .middle{
    grid-area: middle;
-   background:rgba(0,0,0,.2);
-   color:white;
+  color:white;
 }
 	
 .bottom{
    grid-area: bottom; 
-   background:rgba(0,0,0,.2);
    color:white;
 }
   
