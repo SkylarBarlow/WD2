@@ -111,6 +111,7 @@ article p{
    grid-area: top;
    color:white;
      background:rgba(0,0,0,.2);
+   text-align: center;
 
    
 }
@@ -119,6 +120,7 @@ article p{
    grid-area: middle;
   color:white;
     background:rgba(0,0,0,.2);
+  text-align: center;
 
 }
 	
@@ -126,7 +128,7 @@ article p{
    grid-area: bottom; 
    color:white;
      background:rgba(0,0,0,.2);
-
+   text-align: center;
 }
   
 footer {
