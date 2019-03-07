@@ -172,6 +172,19 @@ footer p {
     "footer";
     }
 
+.container3 { /*for special.html*/
+  display: grid;
+  grid-template-columns: auto 1Fr 1.5Fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header header"
+    "nav main top"
+    "nav main middle" 
+    "nav main bottom"  
+    "footer footer footer";
+    }
+
 
 /*This stuff is for the hamburger menu*/
 .toggleNav {
@@ -225,6 +238,20 @@ footer p {
     "footer footer";
     }
 
+.container3 { /*for special.html*/
+  display: grid;
+  grid-template-columns: auto 1Fr 1.5Fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header header"
+    "nav main top"
+    "nav main middle" 
+    "nav main bottom"  
+    "footer footer footer";
+    }
+
+	
 /* Below will change from hamburger menu to side navigation*/
   
 .toggleNav {
@@ -254,6 +281,19 @@ footer p {
     "footer footer footer";
     }
 .container2 { /*for blog.html*/
+  display: grid;
+  grid-template-columns: auto 1Fr 1.5Fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header header"
+    "nav main top"
+    "nav main middle" 
+    "nav main bottom"  
+    "footer footer footer";
+    }
+	
+.container3 { /*for special.html*/
   display: grid;
   grid-template-columns: auto 1Fr 1.5Fr;
   grid-gap:.5em;
