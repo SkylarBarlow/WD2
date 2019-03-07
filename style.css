@@ -174,15 +174,14 @@ footer p {
 
 .container3 { /*for special.html*/
   display: grid;
-  grid-template-columns: auto 1Fr 1.5Fr;
+  grid-template-columns: auto 1Fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
-    "header header header"
-    "nav main top"
-    "nav main middle" 
-    "nav main bottom"  
-    "footer footer footer";
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer;
     }
 
 
@@ -240,15 +239,14 @@ footer p {
 
 .container3 { /*for special.html*/
   display: grid;
-  grid-template-columns: auto 1Fr 1.5Fr;
+  grid-template-columns: auto 1Fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
-    "header header header"
-    "nav main top"
-    "nav main middle" 
-    "nav main bottom"  
-    "footer footer footer";
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer;
     }
 
 	
@@ -295,15 +293,14 @@ footer p {
 	
 .container3 { /*for special.html*/
   display: grid;
-  grid-template-columns: auto 1Fr 1.5Fr;
+  grid-template-columns: auto 1Fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
-    "header header header"
-    "nav main top"
-    "nav main middle" 
-    "nav main bottom"  
-    "footer footer footer";
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer;
     }
 
 
