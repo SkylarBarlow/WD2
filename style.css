@@ -180,7 +180,7 @@ footer p {
   grid-template-areas:
     "header header"
     "nav main"
-    "fig2 fig2"
+    ".fig2 .fig2"
     "footer footer;
     }
 
@@ -245,7 +245,7 @@ footer p {
   grid-template-areas:
     "header header"
     "nav main"
-    "fig2 fig2"
+    ".fig2 .fig2"
     "footer footer;
     }
 
@@ -299,7 +299,7 @@ footer p {
   grid-template-areas:
     "header header"
     "nav main"
-    "fig2 fig2"
+    ".fig2 .fig2"
     "footer footer;
     }
 
