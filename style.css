@@ -180,10 +180,14 @@ footer p {
   grid-template-areas:
     "header header"
     "nav main"
-    ".fig2 .fig2"
+    "fig2 fig2"
     "footer footer;
     }
-
+.nestedgrid {
+grid-template-areas:
+	"section"
+	"fig1";
+}
 
 /*This stuff is for the hamburger menu*/
 .toggleNav {
@@ -249,7 +253,11 @@ footer p {
     "footer footer;
     }
 
-	
+.nestedgrid {
+grid-template-areas:
+	"section"
+	"fig1";
+}
 /* Below will change from hamburger menu to side navigation*/
   
 .toggleNav {
@@ -303,7 +311,11 @@ footer p {
     "footer footer;
     }
 
-
+.nestedgrid {
+grid-template-areas:
+	"section"
+	"fig1";
+}
 	}
 
 
