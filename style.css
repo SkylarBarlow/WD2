@@ -129,7 +129,20 @@ article p{
    color:white;
      background:rgba(0,0,0,.2);
 }
-  
+ section {
+	 grid-area:section;
+}
+
+.fig1{
+   grid-area-fig1;
+	  
+
+}
+
+.fig2{
+   grid-area-fig2;
+	
+}
 footer {
   grid-area:footer;
   background:rgba(0,0,0,.2);
@@ -313,8 +326,7 @@ grid-template-areas:
 
 .nestedgrid {
 grid-template-areas:
-	"section"
-	"fig1";
+	"section fig1";
 }
 	}
 
