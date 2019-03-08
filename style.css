@@ -134,13 +134,13 @@ article p{
 }
 
 .fig1{
-   grid-area-fig1;
+   grid-area:fig1;
 	  
 
 }
 
 .fig2{
-   grid-area-fig2;
+   grid-area:fig2;
 	
 }
 footer {
