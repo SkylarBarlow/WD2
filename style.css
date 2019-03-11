@@ -192,7 +192,7 @@ footer p {
     "header header"
     "nav main"
     "fig2 fig2"
-    "footer footer;
+    "footer footer";
     }
 .nestedgrid {
 grid-template-areas:
@@ -261,7 +261,7 @@ grid-template-areas:
     "header header"
     "nav main"
     "fig2 fig2"
-    "footer footer;
+    "footer footer";
     }
 
 .nestedgrid {
@@ -319,7 +319,7 @@ grid-template-areas:
     "header header"
     "nav main"
     "fig2 fig2"
-    "footer footer;
+    "footer footer";
     }
 
 .nestedgrid {
