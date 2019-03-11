@@ -139,6 +139,7 @@ article p{
 
 .fig2{
    grid-area:fig2;	
+   trext-align:center; 
 }
 
 footer {
