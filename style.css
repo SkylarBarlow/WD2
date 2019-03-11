@@ -139,7 +139,8 @@ article p{
 
 .fig2{
    grid-area:fig2;	
-   trext-align:center; 
+   trext-align:center;
+   color: navy;
 }
 
 footer {
