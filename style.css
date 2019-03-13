@@ -135,6 +135,8 @@ article p{
 
 .fig1{
    grid-area:fig1;
+   color:navy;
+  font-weight:bold;
 }
 
 .fig2{
