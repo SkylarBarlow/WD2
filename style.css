@@ -135,7 +135,7 @@ article p{
 
 .fig1{
    grid-area:fig1;
-   color:navy;
+  background:rgba(0,0,0,.2);
   font-weight:bold;
 }
 
