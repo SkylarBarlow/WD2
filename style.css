@@ -143,10 +143,21 @@ article p{
   background:rgba(0,0,0,.2);
 }
 
-.figcaption{
-	color:navy;
-	text-align:center;
+figure{
+	margin:0;
+	text-align: center;		
 }
+
+figcaption{
+	color:navy;
+        font-weight:bold;
+	padding: 5px;
+}
+
+figure img{
+	padding-top:10px;
+}
+	
 
 footer {
   grid-area:footer;
