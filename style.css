@@ -142,7 +142,7 @@ article p{
 .fig2{
    grid-area:fig2;	
    text-align:center;
-  background:rgba(0,0,0,.2);
+    background:rgba(0,0,0,.2);
 }
 
 figure{
@@ -205,14 +205,15 @@ footer p {
 
 .container3 { /*for special.html*/
   display: grid;
-  grid-template-columns: auto 1Fr;
+  grid-template-columns: 100%;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
-    "header header"
-    "nav main"
-    "fig2 fig2"
-    "footer footer";
+    "header"
+    "nav"
+    "main"
+    "fig2"
+    "footer";
     }
 .nestedgrid {
 grid-template-areas:
