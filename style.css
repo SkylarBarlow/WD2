@@ -284,12 +284,25 @@ grid-template-areas:
     "fig2 fig2"
     "footer footer";
     }
+	
 
 .nestedgrid {
 grid-template-areas:
 	"section"
 	"fig1";
 }
+	
+	.container4 { /*for destination.html*/
+  display: grid;
+  grid-template-columns: auto 1Fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer";
+    }
 /* Below will change from hamburger menu to side navigation*/
   
 .toggleNav {
@@ -343,10 +356,28 @@ grid-template-areas:
     "footer footer";
     }
 
+	
 .nestedgrid {
 grid-template-areas:
 	"section fig1";
 }
-	}
+
+.container4 { /*for destination.html*/
+  display: grid;
+  grid-template-columns: auto 1Fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer";
+    }
+
+
+}
+
+
+
 
 
