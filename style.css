@@ -159,7 +159,10 @@ figcaption{
 figure img{
 	padding-top:10px;
 }
-	
+
+.audio control{
+	text-align:center;
+}
 
 footer {
   grid-area:footer;
