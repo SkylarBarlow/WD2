@@ -160,8 +160,19 @@ figure img{
 	padding-top:10px;
 }
 
-.audio control{
-	text-align:center;
+audio{
+	max-width:100px;
+}
+
+video{
+	max-width:100px;
+	height:auto;
+}
+
+.video.audio{
+	margin:0;
+	display:grid;
+	justify-content:space-around;
 }
 
 footer {
