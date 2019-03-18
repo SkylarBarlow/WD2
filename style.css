@@ -173,7 +173,6 @@ video{
 	margin:0;
 	display:grid;
 	justify-content:space-around;
-	border: 2px dashed orange;
 }
 
 footer {
