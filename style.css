@@ -161,11 +161,11 @@ figure img{
 }
 
 audio{
-	max-width:100px;
+	max-width:100%;
 }
 
 video{
-	max-width:100px;
+	max-width:100%;
 	height:auto;
 }
 
