@@ -189,6 +189,15 @@ footer p {
   margin:0;
 }
 
+form{
+   background-color:darkseagreen;
+   width:90%;
+   color:white;
+   padding:10px;
+}
+	
+	
+	
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
   display: grid;
