@@ -175,6 +175,14 @@ video{
 	display:grid;
 	justify-content:space-around;
 }
+.div1 {
+     grid-area: div1;
+	
+}
+
+.div2 {
+     grid-area: div2;
+}
 
 footer {
   grid-area:footer;
