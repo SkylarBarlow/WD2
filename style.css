@@ -184,6 +184,24 @@ video{
      grid-area: div2;
 }
 
+form{
+   background-color:darkseagreen;
+   width:90%;
+   color:white;
+   padding:10px;
+}
+	
+input{
+   margin: 1px 0 10px 0;
+}
+
+.button{
+	padding:5px
+        background-color: navy 
+        color:lightseagreen
+}
+
+
 footer {
   grid-area:footer;
   background:rgba(0,0,0,.2);
@@ -197,13 +215,6 @@ footer p {
   margin:0;
 }
 
-form{
-   background-color:darkseagreen;
-   width:90%;
-   color:white;
-   padding:10px;
-}
-	
 	
 	
 /*---------------------------Mobile Layout Styles----------------------------*/
