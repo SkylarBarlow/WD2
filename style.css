@@ -201,6 +201,13 @@ input{
         color:lightseagreen
 }
 
+
+.nestedgrid2{
+	displaygrid:
+	grid-temple-area:
+	"div1 div2"
+}
+
 .call {
     color:navy;
     text-align:center;
