@@ -204,7 +204,7 @@ input{
 
 .nestedgrid2{
 	displaygrid:
-	grid-temple-area:
+	grid-template-area:
 	"div1 div2"
 }
 
