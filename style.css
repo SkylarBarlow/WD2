@@ -449,7 +449,7 @@ grid-template-areas:
     "fig2 fig2"
     "footer footer";
     }
-.nestegrid2 {
+.nestedgrid2 {
 grid-template-areas:
 	"div1 div2";
 }
