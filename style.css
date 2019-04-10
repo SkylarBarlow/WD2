@@ -284,6 +284,20 @@ footer p {
     "fig2"
     "footer";
     }
+
+	.container4 { /*for destination.html*/
+  display: grid;
+  grid-template-columns: 100%;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header"
+    "nav"
+    "main"
+    "footer";
+    }
+
+
 .nestedgrid {
 display:grid;
 grid-template-areas:
