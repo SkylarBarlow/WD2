@@ -199,6 +199,7 @@ input{
 	padding:5px;
         background-color: navy;
         color:lightseagreen;
+	cursor:pointer;
 }
 
 
@@ -225,6 +226,11 @@ input{
     padding:5px;
     text-align:center;
     font-size:.75em;
+    display:none;
+}
+
+.shadow {
+ box-shadow: 10px 10px 5px #888888;
 }
 
 
